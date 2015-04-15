@@ -10,4 +10,4 @@ Denis Drabchuk
 
 ## Class diagram
 
-!(cd.png)
+![Class diagram](cd.png)

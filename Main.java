@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by Денис on 03.04.2015.
  */
 import objects.*;
@@ -10,6 +10,7 @@ import java.applet.Applet;
 import java.util.ArrayList;
 
 public class Main extends Applet {
+
     Dimension dmDown;
     Dimension dmUp;
     Dimension dmPrev, dmCurrent;
